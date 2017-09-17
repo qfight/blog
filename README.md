@@ -64,5 +64,7 @@ hexo官网: https://hexo.io/
 
 ### 关于hexo主题
 
+当前主题是NexT: http://theme-next.iissnan.com/
+
 hexo主题可以随意更换,主题文件直接放在themes目录下,修改根目录下的_config.yml中的theme字段的值为对应主题即可.修改主题的配置,需要修改主题目录下的_config.yml文件.
 明确一个概念,根目录下的_config.yml叫站点配置文件,主题目录下的_config.yml叫主题配置文件.
