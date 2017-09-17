@@ -45,7 +45,7 @@ https://hexo.io/zh-cn/docs/writing.html
     npm run build 或  hexo g
 ``````
 
-构建: 该命令将会把markdown文件编译成为html并且放在了public目录下
+构建: 该命令将会把source/_post目录下的markdown文件编译成为html并且放在了public目录下
 
 #### 发布
 
@@ -53,7 +53,7 @@ https://hexo.io/zh-cn/docs/writing.html
     npm run deploy 或 hexo deploy
 ``````
 
-发布: 将build产物,push到blog工程的gh-pages分支
+发布: 将build产物,push到blog工程的gh-pages分支.需要注意的是,记得提交源代码到master分支
 
 ### 说明
  
